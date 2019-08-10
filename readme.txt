@@ -1,2 +1,2 @@
 ﻿Git is a disabled version control system.
-Git is free software.
+Git is free mmpd software.
